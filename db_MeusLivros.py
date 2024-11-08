@@ -6,7 +6,7 @@ try:
         host='localhost',
         database='db_MeusLivros',
         user='root',
-        password='1234567'
+        password=''
     )
 
     if con.is_connected():
